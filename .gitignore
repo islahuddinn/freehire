@@ -263,3 +263,6 @@ extension/*.zip
 # cmd/harvest-boards, regenerated from the live boards table + whatever aggregator/query ran.
 # Not the catalog's own record (that's `boards`, written by cmd/harvest-boards --apply).
 /scripts/.harvest-seeds/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
